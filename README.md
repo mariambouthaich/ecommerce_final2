@@ -10,5 +10,6 @@ Authentification des utilisateurs
 Gestion des produits
 
 Recherche et filtrage des articles
+
 Gestion du panier d'achat
 Validation des commandes
