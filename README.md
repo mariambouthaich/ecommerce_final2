@@ -6,6 +6,7 @@ Cette application est une plateforme de commerce électronique développée en J
 Fonctionnalités
 
 Authentification des utilisateurs
+
 Gestion des produits
 Recherche et filtrage des articles
 Gestion du panier d'achat
